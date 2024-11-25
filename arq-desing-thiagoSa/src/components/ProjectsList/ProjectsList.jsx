@@ -16,49 +16,49 @@ function ProjectsList(){
                 <div className='thumb tertiary-background'></div>
                 <h3>Pedro Caio</h3> 
                 <p>CE, Brasil</p>
-                <img src={LikeFilled}/>
+                <img src={LikeFilled} height="20px"/>
             </div>
             <div className='project-card d-flex jc-center al-center fd-column'>
                 <div className='thumb tertiary-background'></div>
                 <h3>Pedro Caio</h3> 
                 <p>CE, Brasil</p>
-                <img src={Like}/>
+                <img src={Like} height="20px"/>
             </div>
             <div className='project-card d-flex jc-center al-center fd-column'>
                 <div className='thumb tertiary-background'></div>
                 <h3>Pedro Caio</h3> 
                 <p>CE, Brasil</p>
-                <img src={LikeFilled}/>
+                <img src={LikeFilled} height="20px"/>
             </div>
             <div className='project-card d-flex jc-center al-center fd-column'>
                 <div className='thumb tertiary-background'></div>
                 <h3>Pedro Caio</h3> 
                 <p>CE, Brasil</p>
-                <img src={LikeFilled}/>
+                <img src={LikeFilled} height="20px"/>
             </div>
             <div className='project-card d-flex jc-center al-center fd-column'>
                 <div className='thumb tertiary-background'></div>
                 <h3>Pedro Caio</h3> 
                 <p>CE, Brasil</p>
-                <img src={LikeFilled}/>
+                <img src={LikeFilled} height="20px"/>
             </div>
             <div className='project-card d-flex jc-center al-center fd-column'>
                 <div className='thumb tertiary-background'></div>
                 <h3>Pedro Caio</h3> 
                 <p>CE, Brasil</p>
-                <img src={LikeFilled}/>
+                <img src={LikeFilled} height="20px"/>
             </div>
             <div className='project-card d-flex jc-center al-center fd-column'>
                 <div className='thumb tertiary-background'></div>
                 <h3>Pedro Caio</h3> 
                 <p>CE, Brasil</p>
-                <img src={LikeFilled}/>
+                <img src={LikeFilled} height="20px"/>
             </div>
             <div className='project-card d-flex jc-center al-center fd-column'>
                 <div className='thumb tertiary-background'></div>
                 <h3>Pedro Caio</h3> 
                 <p>CE, Brasil</p>
-                <img src={LikeFilled}/>
+                <img src={LikeFilled} height="20px"/>
             </div>
         </div>
       </div>
