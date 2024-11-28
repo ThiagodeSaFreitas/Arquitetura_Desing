@@ -1,7 +1,7 @@
 import Banner from "../components/Banner/Banner"
 import Header from "../components/header/Header"
 import Footer from "../components/Footer/Footer"
-import Button from "../components/Button/Button"
+import Hero from "../components/Hero/Hero"
 import ProjectsList from "../components/ProjectsList/ProjectsList"
 
 
